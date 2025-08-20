@@ -1,0 +1,35 @@
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48;
+}
+
+:root{
+
+--customRed: 255 ,0, 0;
+--color-primary: hsl(0,0%,50%);
+
+--grape: 114 ,35, 204;
+
+
+}
+
+.light {
+  --text-primary: 23, 23, 23;    /* Koyu siyah */
+  --text-secondary: 115, 115, 115; /* Gri */
+  --text-accent: 255, 165, 0;     /* Turuncu */
+
+  --text-white:  0,0,0 ; 
+}
+
+.dark {
+  --text-primary: 245, 245, 245;  /* Açık gri */
+  --text-secondary: 150, 150, 150; /* Orta gri */
+  --text-accent: 255, 223, 0;      /* Sarı */
+  --text-white:  255,255,255;
+
+}
